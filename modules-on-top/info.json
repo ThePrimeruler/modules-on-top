@@ -1,0 +1,12 @@
+{
+    "name": "modules-on-top",
+    "version": "0.0.1",
+    "title": "Modules On Top",
+    "author": "Primeruler",
+    "factorio_version": "2.0",
+    "description": "Moves Modules To The Top Of The Crafting Tab",
+    "homepage": "https://github.com/ThePrimeruler/modules-on-top",
+    "dependencies": [
+        "base"
+    ]
+}
